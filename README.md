@@ -9,7 +9,6 @@ This project applies deep learning (EfficientNetB7 and EfficientNetV2L) to class
 ```
 Lung-Disease-Detection/
 ├── Notebooks/
-│   ├── EfficientNetB7.ipynb
 │   ├── EfficientNetV2L.ipynb
 │   └── EfficientNetB7_Augmentation.ipynb
 ├── Datasets/
@@ -41,7 +40,7 @@ Lung-Disease-Detection/
 
 Use Jupyter Notebook or VS Code to open files inside the `Notebooks/` folder:
 
-- `EfficientNetB7.ipynb` – baseline model  
+- `EfficientNetB7.ipynb` – baseline model - code not included seperately but the model is included in the augmented version 
 - `EfficientNetV2L.ipynb` – advanced model  
 - `EfficientNetB7_Augmentation.ipynb` – with data augmentation  
 
