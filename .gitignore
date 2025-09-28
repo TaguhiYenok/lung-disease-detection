@@ -1,0 +1,15 @@
+# Python & system junk
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.DS_Store
+
+# Dataset folders (DO NOT push to GitHub)
+Datasets/
+Anomaly/
+Normal/
+
+# Model weights
+*.h5
+*.pth
+*.pt
